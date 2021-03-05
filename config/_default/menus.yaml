@@ -4,25 +4,33 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
+  - name: Início
+    url: "/#my-section"
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: HRP
+    url: "landing/"
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: ERP
+    url: "course/"
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Plataforma
+    url: "plataforma/"
     weight: 40
-  - name: Publications
-    url: '#featured'
+  - name: Documentação
+    url: "documentation/"
     weight: 50
-  - name: Contact
-    url: '#contact'
+  - name: SaaS
+    url: "saas/"
     weight: 60
-
+  - name: Metodologia
+    url: "metodologia/"
+    weight: 70
+  - name: Suporte
+    url: "suportes/"
+    weight: 80
+  - name: Faq
+    url: ""
+    weight: 90
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV

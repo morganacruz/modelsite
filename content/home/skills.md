@@ -9,31 +9,33 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Módulos
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  - description: O ERP integra um robusto, escalável e seguro sistema de gestão empresarial focado no varejo brasileiro
 
+    icon: r-project
+    icon_pack: fab
+    name: HRP
+  - description: O ERP integra um robusto, escalável e seguro sistema de gestão empresarial focado no varejo brasileiro
+
+    icon: chart-line
+    icon_pack: fas
+    name: ERP
+  - description: O ERP integra um robusto, escalável e seguro sistema de gestão empresarial focado no varejo brasileiro
+
+    icon: camera-retro
+    icon_pack: fas
+    name: SaaS
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
