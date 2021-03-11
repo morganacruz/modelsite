@@ -5,13 +5,13 @@
 
 title: Salutis # Website name
 baseurl: "https://modelsitetest.netlify.app" # Website URL
-copyright: "Todos os direitos reservados Salutis-2021 www.salutis.com.br" # Footer text, e.g. '© {year} Me'
+copyright: "Todos os direitos reservados Salutis-2021" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

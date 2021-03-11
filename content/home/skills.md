@@ -7,28 +7,33 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Módulos
 subtitle:
-
+# Section design
+design:
+  # Use a dark navy background with light text.
+  # background:
+  #  color: "white"
+  #  text_color_light: false
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: O ERP integra um robusto, escalável e seguro sistema de gestão empresarial focado no varejo brasileiro
 
-    icon: r-project
-    icon_pack: fab
+    icon: archive
+    icon_pack: fas
     name: HRP
   - description: O ERP integra um robusto, escalável e seguro sistema de gestão empresarial focado no varejo brasileiro
 
-    icon: chart-line
+    icon: folder-open
     icon_pack: fas
     name: ERP
   - description: O ERP integra um robusto, escalável e seguro sistema de gestão empresarial focado no varejo brasileiro
 
-    icon: camera-retro
+    icon: file-archive
     icon_pack: fas
     name: SaaS
 # Uncomment to use emoji icons.

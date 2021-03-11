@@ -20,9 +20,6 @@ design:
   # Use a 1-column layout
   columns: "1"
   # Use a dark navy background with light text.
-  background:
-    color: "white"
-    text_color_light: false
 ---
 
 O ERP integra um robusto, escalável e seguro sistema de gestão empresarial focado no varejo brasileiro, 100% web, contendo ferramentas que englobam conceitos de e-commerce.
