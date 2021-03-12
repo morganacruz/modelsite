@@ -5,7 +5,7 @@ type: book
 toc: true
 ---
 
-O Bematech ERP é um software de gestão inovador que representa uma solução abrangente, completa e flexível, adequada à realidade do negócio do cliente, oferecendo informações seguras e confiáveis com agilidade.
+O ERP é um software de gestão inovador que representa uma solução abrangente, completa e flexível, adequada à realidade do negócio do cliente, oferecendo informações seguras e confiáveis com agilidade.
 
 ## Quem pode usar
 

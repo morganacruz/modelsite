@@ -11,7 +11,7 @@ toc: true
 type: docs
 ---
 
-O software Bematech ERP roda totalmente através de navegadores de Internet (web browsers), sem a necessidade de plugins. Também oferece recursos de usabilidade diferenciados como:
+O software ERP roda totalmente através de navegadores de Internet (web browsers), sem a necessidade de plugins. Também oferece recursos de usabilidade diferenciados como:
 
 - Hiperlinks através do sistema;
 - Navegação simultânea por múltiplos processos e relatórios;

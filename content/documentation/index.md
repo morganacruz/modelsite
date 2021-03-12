@@ -14,7 +14,7 @@ type: docs
 
 ## Introdução
 
-Todos os módulos do software Bematech ERP possui integração total on-line (end-to-end) e foram estruturados para ampla flexibilidade de configuração e expansão.
+Todos os módulos do software ERP possui integração total on-line (end-to-end) e foram estruturados para ampla flexibilidade de configuração e expansão.
 
 Possuem poderosos conceitos de hierarquia de dados, geração de relatórios e visualizações, além de consolidação e integração de regras de negócios em objetos de gestão que permeiam todo o sistema.
 
