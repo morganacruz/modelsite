@@ -98,7 +98,8 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: false
-sharing: true
+book_section_pager: false
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
