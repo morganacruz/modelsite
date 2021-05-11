@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: Sistema DYAD HRP
+title: Sistema DYAD
 
 # Section subtitle
 subtitle:
@@ -21,5 +21,7 @@ design:
   columns: "1"
   # Use a dark navy background with light text.
 ---
+
+#### DYAD ERP E HRP
 
 O ERP integra um robusto, escalável e seguro sistema de gestão empresarial focado no varejo brasileiro, 100% web, contendo ferramentas que englobam conceitos de e-commerce.

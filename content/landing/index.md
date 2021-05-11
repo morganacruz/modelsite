@@ -1,8 +1,14 @@
 ---
 title: Software HRP
 date: 2021-03-03
-type: book
+type: docs
 toc: true
+
+menu:
+    engine:
+      name: Software HRP
+      parent: Módulos
+      weight: 8
 ---
 
 O ERP é um software de gestão inovador que representa uma solução abrangente, completa e flexível, adequada à realidade do negócio do cliente, oferecendo informações seguras e confiáveis com agilidade.
