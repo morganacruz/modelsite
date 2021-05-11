@@ -16,11 +16,7 @@ type: docs # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-<<<<<<< HEAD
   docsof:
-=======
-  engine:
->>>>>>> 1ac154a4f7ecfd3bb2800d158fccf04412c20139
     name: Cadastro
     weight: 10
 ---
